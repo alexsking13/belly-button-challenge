@@ -1,7 +1,5 @@
 # belly-button-challenge
 
-file:///E:/Module_14_Challenge/Starter_Code/index.html
-
 https://d3js.org/getting-started
 
 https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json
